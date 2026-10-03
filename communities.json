@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "communities": [
+    { "id": "saheli", "name": "Saheli", "url": "https://saheli.impactidol.org" },
+    { "id": "cope", "name": "COPE", "url": "https://cope.impactidol.org" },
+    { "id": "community", "name": "Community", "url": "https://community.impactidol.com" }
+  ]
+}
