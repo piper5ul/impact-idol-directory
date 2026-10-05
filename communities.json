@@ -7,6 +7,7 @@
     { "id": "village", "name": "Village", "url": "https://village.impactidol.com" },
     { "id": "foodpantry", "name": "Food Pantry", "url": "https://foodpantry.impactidol.com" },
     { "id": "service", "name": "Service", "url": "https://service.impactidol.com" },
-    { "id": "paynamibia", "name": "PAY Namibia", "url": "https://paynamibia.impactidol.com" }
+    { "id": "paynamibia", "name": "PAY Namibia", "url": "https://paynamibia.impactidol.com" },
+    { "id": "vibha", "name": "Vibha", "url": "https://volunteer.vibha.org" }
   ]
 }
