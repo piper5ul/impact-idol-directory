@@ -3,6 +3,10 @@
   "communities": [
     { "id": "saheli", "name": "Saheli", "url": "https://saheli.impactidol.org" },
     { "id": "cope", "name": "COPE", "url": "https://cope.impactidol.org" },
-    { "id": "community", "name": "Community", "url": "https://community.impactidol.com" }
+    { "id": "community", "name": "Community", "url": "https://community.impactidol.com" },
+    { "id": "village", "name": "Village", "url": "https://village.impactidol.com" },
+    { "id": "foodpantry", "name": "Food Pantry", "url": "https://foodpantry.impactidol.com" },
+    { "id": "service", "name": "Service", "url": "https://service.impactidol.com" },
+    { "id": "paynamibia", "name": "PAY Namibia", "url": "https://paynamibia.impactidol.com" }
   ]
 }
