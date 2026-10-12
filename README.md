@@ -7,4 +7,6 @@ To add a community: add one line with a unique `id`, the display `name`, and the
 The app refreshes the list on launch and keeps its last good copy; the server must also be configured for the unified app
 (Google/Apple sign-in audiences, chat allowlist, push, app-link files) before it is listed here.
 
+Optional `"village": true` marks a community with Village on; the Impact Idol Village app lists only those (other entries still appear in the Impact Idol app). Leave it out for every other community.
+
 Do not list staging, test, or unlisted communities here; this repository is public.
