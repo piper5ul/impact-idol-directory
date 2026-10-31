@@ -9,6 +9,7 @@
     { "id": "service", "name": "The Doing Circle (demo)", "url": "https://service.impactidol.com" },
     { "id": "paynamibia", "name": "PAY Namibia", "url": "https://paynamibia.impactidol.com" },
     { "id": "vibha", "name": "Vibha", "url": "https://volunteer.vibha.org" },
-    { "id": "nce", "name": "Newton Community Ed (demo)", "url": "https://nce.impactidol.com" }
+    { "id": "nce", "name": "Newton Community Ed (demo)", "url": "https://nce.impactidol.com" },
+    { "id": "towr", "name": "TOWR (demo)", "url": "https://hello.impactidol.com" }
   ]
 }
