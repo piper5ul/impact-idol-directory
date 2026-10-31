@@ -3,10 +3,10 @@
   "communities": [
     { "id": "saheli", "name": "Saheli", "url": "https://saheli.impactidol.org" },
     { "id": "cope", "name": "COPE", "url": "https://cope.impactidol.org" },
-    { "id": "community", "name": "Community", "url": "https://community.impactidol.com" },
-    { "id": "village", "name": "Village", "url": "https://village.impactidol.com", "village": true },
-    { "id": "foodpantry", "name": "Food Pantry", "url": "https://foodpantry.impactidol.com" },
-    { "id": "service", "name": "Service", "url": "https://service.impactidol.com" },
+    { "id": "community", "name": "Good Neighbor Collective (demo)", "url": "https://community.impactidol.com" },
+    { "id": "village", "name": "Rooted in Care (demo)", "url": "https://village.impactidol.com", "village": true },
+    { "id": "foodpantry", "name": "Common Table (demo)", "url": "https://foodpantry.impactidol.com" },
+    { "id": "service", "name": "The Doing Circle (demo)", "url": "https://service.impactidol.com" },
     { "id": "paynamibia", "name": "PAY Namibia", "url": "https://paynamibia.impactidol.com" },
     { "id": "vibha", "name": "Vibha", "url": "https://volunteer.vibha.org" }
   ]
