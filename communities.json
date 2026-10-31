@@ -8,6 +8,7 @@
     { "id": "foodpantry", "name": "Common Table (demo)", "url": "https://foodpantry.impactidol.com" },
     { "id": "service", "name": "The Doing Circle (demo)", "url": "https://service.impactidol.com" },
     { "id": "paynamibia", "name": "PAY Namibia", "url": "https://paynamibia.impactidol.com" },
-    { "id": "vibha", "name": "Vibha", "url": "https://volunteer.vibha.org" }
+    { "id": "vibha", "name": "Vibha", "url": "https://volunteer.vibha.org" },
+    { "id": "nce", "name": "Newton Community Ed (demo)", "url": "https://nce.impactidol.com" }
   ]
 }
